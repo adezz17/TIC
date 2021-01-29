@@ -1,0 +1,23 @@
+/* Prueba de formularios con tml y css
+    Ángeles Viúdez
+    Enero 2021 */
+
+.formulario{
+    background-color: lightblue;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    width: 50%;
+    margin: auto;
+}
+
+.fm{
+    display: flex;
+    flex-direction: column;
+}
+
+.fm > *{
+    margin: 10px 0px 0px 0px;
+    padding: 15px;
+    border-radius: 10px;
+}
