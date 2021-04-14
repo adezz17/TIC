@@ -6,7 +6,7 @@ header{
     padding: 20px;
     border: solid 5px black;
     margin: 20px 20px 50px 20px;
-    background-color: rgb(58, 58, 237);
+    background-color: rgb(73, 199, 43);
     border-radius: 25px;
     box-shadow: #383737 8px 8px 5px;
     color: white;
@@ -32,7 +32,7 @@ a{
 }
 
 div a:nth-child(1),div a:nth-child(2),div a:nth-child(3){
-    background-color: rgb(58, 58, 237);
+    background-color: rgb(73, 199, 43);
 }
 
 div a:nth-child(4),div a:nth-child(5),div a:nth-child(6){
